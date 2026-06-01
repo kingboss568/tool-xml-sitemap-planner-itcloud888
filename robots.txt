@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xml-sitemap.itcloud888.com/sitemap.xml
